@@ -1,0 +1,76 @@
+body {
+    background-color: Pink;
+    text-align: center;
+}
+
+p {
+    text-shadow: 2px 2px #ff0000;
+    font-size: 30px;
+
+}
+
+h1 {
+    text-shadow: 2px 2px #ff0000;
+    font-size: 30px;
+
+}
+
+#bio {
+    Padding: 20px;
+    font-size: 18;
+    text-align: center;
+
+}
+
+img {
+    border-radius: 70%;
+    width: 300px;
+    
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#name {
+    font-variant: small caps;
+    font-size: 30px;
+    font-family: serif;
+}
+
+h3 {
+    font-size: 40px;
+    color: purple;
+}
+
+.menu {
+    font-family: cursive;
+    top: 10px;
+    position: absolute;
+    right: 30px;
+    cursor: pointer;
+    list-style: none;
+    color: crimson;
+    z-index: 10;
+
+}
+
+.links {
+    font-family: sans-serif;
+    color: crimson;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    float: left;
+
+
+}
+
+.links:hover {
+    background-color: orange;
+}
